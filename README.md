@@ -3,7 +3,7 @@ Jupyter notebook for YOLOv5 custom dataset training for Facemask detection in Py
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nannigalaxy/facemask_detection_yolov5/blob/master/facemask_yolov5.ipynb)
+![[](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nannigalaxy/facemask_detection_yolov5/blob/master/facemask_yolov5.ipynb)
 
 
 ### Credits
